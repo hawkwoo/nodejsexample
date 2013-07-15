@@ -53,7 +53,7 @@ function show(response){
 	     response.end();
 	 }
 	});
-)
+}
 
 exports.start =start;
 exports.upload =upload;
